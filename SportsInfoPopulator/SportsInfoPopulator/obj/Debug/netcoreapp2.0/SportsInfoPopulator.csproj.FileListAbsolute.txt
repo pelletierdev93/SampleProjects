@@ -1,0 +1,5 @@
+c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\bin\Debug\netcoreapp2.0\SportsInfoPopulator.deps.json
+c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\bin\Debug\netcoreapp2.0\SportsInfoPopulator.dll
+c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.csproj.CoreCompileInputs.cache
+c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfoInputs.cache
+c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfo.cs
