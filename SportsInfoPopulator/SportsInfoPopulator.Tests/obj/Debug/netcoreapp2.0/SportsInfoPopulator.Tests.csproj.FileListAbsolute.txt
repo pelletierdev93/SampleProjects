@@ -2,3 +2,15 @@ C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopul
 C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.csproj.CoreCompileInputs.cache
 C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.AssemblyInfoInputs.cache
 C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.AssemblyInfo.cs
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.deps.json
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.runtimeconfig.json
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.runtimeconfig.dev.json
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.pdb
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\bin\Debug\netcoreapp2.0\SportsInfoPopulator.pdb
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.pdb

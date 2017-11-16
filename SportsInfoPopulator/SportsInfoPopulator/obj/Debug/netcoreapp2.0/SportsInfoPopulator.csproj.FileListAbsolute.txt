@@ -11,3 +11,4 @@ C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopul
 C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfo.cs
 C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.dll
 C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.pdb
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.csprojResolveAssemblyReference.cache
