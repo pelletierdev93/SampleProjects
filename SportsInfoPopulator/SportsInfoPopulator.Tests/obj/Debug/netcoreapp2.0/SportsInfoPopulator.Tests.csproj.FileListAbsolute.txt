@@ -1,0 +1,4 @@
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.AssemblyInfoInputs.cache
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator.Tests\obj\Debug\netcoreapp2.0\SportsInfoPopulator.Tests.AssemblyInfo.cs

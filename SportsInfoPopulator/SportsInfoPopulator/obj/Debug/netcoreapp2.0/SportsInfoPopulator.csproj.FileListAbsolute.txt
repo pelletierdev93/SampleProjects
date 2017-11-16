@@ -3,3 +3,11 @@ c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulato
 c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.csproj.CoreCompileInputs.cache
 c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfoInputs.cache
 c:\users\pelle\onedrive\documents\visual studio 2017\Projects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfo.cs
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\bin\Debug\netcoreapp2.0\SportsInfoPopulator.deps.json
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\bin\Debug\netcoreapp2.0\SportsInfoPopulator.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\bin\Debug\netcoreapp2.0\SportsInfoPopulator.pdb
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.csproj.CoreCompileInputs.cache
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfoInputs.cache
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.AssemblyInfo.cs
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.dll
+C:\Users\pelle\Desktop\GitHub\SampleProjects\SportsInfoPopulator\SportsInfoPopulator\obj\Debug\netcoreapp2.0\SportsInfoPopulator.pdb
